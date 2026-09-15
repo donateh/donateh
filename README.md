@@ -22,12 +22,6 @@ A continuación, un resumen de las tecnologías que manejo principalmente y las 
 
 *(Nota: Aunque me enfoco en C y Python, siempre estoy abierto a aprender nuevas herramientas como C++ o Rust si el firmware lo requiere).*
 
-## 📈 Mis Estadísticas en GitHub
-
-| Resumen de Actividad | Lenguajes más usados |
-| :---: | :---: |
-| <img src="https://github-readme-stats.vercel.app/api?username=donateh&show_icons=true&theme=radical&hide_border=true" height="150" alt="Estadísticas de Daniel"/> | <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donateh&layout=compact&theme=radical&hide_border=true" height="150" alt="Lenguajes de Daniel"/> |
-
 
 ## 📫 Cómo contactarme
 
